@@ -24,19 +24,6 @@ Zero-shot fuzzy matching on raw symbolic sequences using classical wave interfer
 |-------------------|---------|------------|-------------|-----------|
 | Phishing domains  | 1,000+  | 180 ms     | 12 ms       | 98.7%     |
 
-## Quick Start
-
-```csharp
-var tim = new TimEngine(domains, isMalware: false);
-tim.Build();
-var results = tim.Search("p@ypal.com");
-
-foreach (var r in results)
-{
-    Console.WriteLine($"{r.FoundItem} - Fidelity: {r.Fidelity:F2}%");
-}
-```
-
 ## Project Structure
 
 ```
@@ -45,10 +32,11 @@ TIM-Vector-Search/
 │   ├── TimCore/           # Core encoding logic
 │   ├── Kernels/           # OpenCL .cl kernel files
 │   └── TimShield/         # Cybersecurity app
-├── examples/              # Demo scripts
-├── benchmarks/            # Performance tests
-├── Data/                  # CSV datasets
-└── docs/                  # Mathematical documentation
+├── domain_list.csv
+├── large_domain_list.csv
+├── malware_signatures.csv
+├── README.md
+└── LICENCSE
 ```
 
 ## Building
@@ -63,7 +51,6 @@ dotnet build
 ```bash
 dotnet run
 # Select: Domain or Malware
-# Enter query string (e.g., "p@ypal.com")
 ```
 
 ## How It Works

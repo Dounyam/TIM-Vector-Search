@@ -15,5 +15,5 @@ Currently adapting the engine for Bioinformatics.
 
 ---
 
-**Author:** AlexJusBtr
+**Author:** Alexander Christiaan Lourens
 *Licensed under MIT License*

@@ -6,7 +6,7 @@
 
 TIM (Temporal Interference Memory) is a GPU-accelerated fuzzy search engine that uses Vector Symbolic Architectures (VSA) to perform noise-tolerant pattern matching on large datasets. Instead of standard linear comparison, it encodes strings into holographic wave vectors, allowing it to detect fuzzy matches; like typos or mutations; through wave interference dynamics. Built with C# and OpenCL, it operates as a zero-shot system requiring no pre-training or embeddings, designed to explore how "physics-based" filtering can optimize search on raw symbolic data.
 
-## 🔮 Future Roadmap (TIM-BLAST)
+## Future Roadmap (TIM-BLAST)
 
 Currently adapting the engine for Bioinformatics.
 

